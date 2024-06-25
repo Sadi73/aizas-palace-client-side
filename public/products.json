@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-vector/sport-car-cartoon-vector-icon-illustration-transportation-object-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3978.jpg?size=626&ext=jpg&ga=GA1.1.793887435.1673891886&semt=ais",
+        "name": "Harmon",
+        "category": "sports-car",
+        "price": 10,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/red-car-with-christmas-ball-top_1252-296.jpg?size=626&ext=jpg&ga=GA1.1.793887435.1673891886&semt=ais",
+        "name": "Gross",
+        "category": "sports-car",
+        "price": 13,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-vector/thumbnail-design-with-race-car-road_1308-78986.jpg?size=626&ext=jpg&ga=GA1.1.793887435.1673891886&semt=ais",
+        "name": "Julie",
+        "category": "sports-car",
+        "price": 7,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/free-psd/3d-rendering-firefighter-icon_23-2149859768.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Sampson",
+        "category": "mini-fire-truck",
+        "price": 15,
+        "rating": 4.2
+    },
+    {
+        "id": 5,
+        "picture": "https://img.freepik.com/free-vector/skull-rider-illustration-vintage-style-sticker_32991-495.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Benton",
+        "category": "mini-fire-truck",
+        "price": 12,
+        "rating": 4.9
+    },
+    {
+        "id": 6,
+        "picture": "https://img.freepik.com/free-vector/red-firetruck-with-rescue-ladder-fire-background_1284-11978.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Tucker",
+        "category": "mini-fire-truck",
+        "price": 20,
+        "rating": 5.0
+    },
+    {
+        "id": 7,
+        "picture": "https://img.freepik.com/free-photo/closeup-old-mini-police-car-toy_181624-45993.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Marcia",
+        "category": "mini-police-truck",
+        "price": 17,
+        "rating": 4.1
+    },
+    {
+        "id": 8,
+        "picture": "https://img.freepik.com/free-vector/sticker-design-with-side-view-police-car-isolated_1308-76459.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Morales",
+        "category": "mini-police-truck",
+        "price": 21,
+        "rating": 5.0
+    },
+    {
+        "id": 9,
+        "picture": "https://img.freepik.com/free-vector/several-colored-vehicles_23-2147610615.jpg?size=626&ext=jpg&ga=GA1.2.793887435.1673891886&semt=ais",
+        "name": "Megan",
+        "category": "mini-police-truck",
+        "price": 15,
+        "rating": 4.8
+    }
+]
